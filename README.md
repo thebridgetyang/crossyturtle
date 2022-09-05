@@ -1,4 +1,4 @@
-- A fun game in which the user has to move a turtle as far as possible, dodging all obstacles and collecting powerups and coins along the way.
+- A fun game (with no end other than death) in which the user has to move a turtle as far as possible, dodging all obstacles and collecting powerups and coins along the way.
 
 - Inspired by the infamous mobile game "Crossy Road" and the adorable turtles that populate Caltech's Turtle Pond.
 
